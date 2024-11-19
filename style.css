@@ -1,0 +1,57 @@
+/* Reset */
+* {
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
+
+body {
+    font-family: sans-serif;
+}
+
+.logo {
+    font-family: sans-serif;
+}
+
+.logo h1 {
+    width: 130px;
+    height: auto;
+    margin: 20px;
+}
+
+.header {
+    background-color: brown (241, 235, 177);
+    padding: 20px;
+}
+
+nav {
+    display: flex;
+    background-color: brown (153, 84, 84);
+    align-items: center;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+}
+
+nav ul li {
+    margin-right: 10px;
+}
+
+nav a {
+    text-decoration: none;
+}
+
+.btn-order {
+    background-color: bisque;
+    color: bisque;
+}
+
+
+
+
+
+
+
